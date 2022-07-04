@@ -35,11 +35,7 @@ Feature: Content
     | name      | status | mail             |
     | Test user |      1 | test@example.com |
     When I am logged in as "Test user"
-<<<<<<< HEAD
     Then I should not visibly see the link "Log out"
-=======
-    Then I should see the link "Log out"
->>>>>>> master
 
   @api
   Scenario: Create many terms
