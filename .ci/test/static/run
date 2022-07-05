@@ -15,11 +15,6 @@ composer install --no-ansi --no-interaction --optimize-autoloader --no-progress
 # Run unit tests
 composer -n unit-test
 
-# Delete and reset the web directory
-# This is necessary so that third-party
-# dependencies are not tested
-git clean -fdX web
-
 # Lint php code for syntax errors
 composer -n lint
 
