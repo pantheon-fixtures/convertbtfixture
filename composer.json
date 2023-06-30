@@ -36,7 +36,8 @@
         "drupal/drupal-extension": "^4.1",
         "drupal/drupal-driver": "^2.1",
         "genesis/behat-fail-aid": "^2.1",
-        "jcalderonzumba/mink-phantomjs-driver": "^0.3.1"
+        "jcalderonzumba/mink-phantomjs-driver": "^0.3.1",
+        "mikey179/vfsstream": "^1.2"
     },
     "conflict": {
         "drupal/drupal": "*"
