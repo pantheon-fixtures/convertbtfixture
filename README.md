@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Composer-enabled Drupal template
 
 This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
@@ -21,10 +20,3 @@ directly accept pull requests.
 
 Instead, to propose a change, please fork [pantheon-systems/drupal-composer-managed](https://github.com/pantheon-systems/drupal-composer-managed)
 and submit a PR to that repository.
-=======
-# convertbtfixture
-
-[![CircleCI](https://circleci.com/gh/pantheon-fixtures/convertbtfixture.svg?style=shield)](https://circleci.com/gh/pantheon-fixtures/convertbtfixture)
-[![Dashboard convertbtfixture](https://img.shields.io/badge/dashboard-convertbtfixture-yellow.svg)](https://dashboard.pantheon.io/sites/6fe3dac3-d050-451c-9c84-2643d9d77300#dev/code)
-[![Dev Site convertbtfixture](https://img.shields.io/badge/site-convertbtfixture-blue.svg)](http://dev-convertbtfixture.pantheonsite.io/)
->>>>>>> master
