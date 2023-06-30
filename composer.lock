@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f6f07baec98bf61fb45b12a3ff0ef3eb",
+    "content-hash": "0dd8872001c0275a9cf9f96bb39fd701",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3287,6 +3287,35 @@
                 "source": "https://github.com/pantheon-systems/drupal-integrations/tree/8.0.8"
             },
             "time": "2023-05-17T17:43:48+00:00"
+        },
+        {
+            "name": "pantheon-systems/quicksilver-pushback",
+            "version": "2.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pantheon-systems/quicksilver-pushback.git",
+                "reference": "849c57c31c678ed023ccdb2a7bde9ab14beb9c22"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pantheon-systems/quicksilver-pushback/zipball/849c57c31c678ed023ccdb2a7bde9ab14beb9c22",
+                "reference": "849c57c31c678ed023ccdb2a7bde9ab14beb9c22",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "quicksilver-script",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Push commits made via the Pantheon dashboard back to original GitHub repository.",
+            "support": {
+                "issues": "https://github.com/pantheon-systems/quicksilver-pushback/issues",
+                "source": "https://github.com/pantheon-systems/quicksilver-pushback/tree/2.1.1"
+            },
+            "time": "2023-01-03T20:41:22+00:00"
         },
         {
             "name": "pantheon-upstreams/upstream-configuration",
